@@ -1,0 +1,38 @@
+
+body {
+	background-color: #ddd;
+	font-size: 16px;
+}
+
+main {
+	margin: 0 auto;
+}
+
+section {
+	width: 250px;
+	border-radius: 3px;
+	background-color: white;
+	text-align: center;
+	display: inline-block;
+	margin: 0 10px 10px 10px;
+}
+
+img {
+	border-radius: 100px;
+	max-height: 155px;
+	max-width: 75%;
+}
+
+h2 {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.person-title,
+.person-email {
+	font-size: 1em;
+}
+
+.person-title {
+	color: #aaa;
+}
