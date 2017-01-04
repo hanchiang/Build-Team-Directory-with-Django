@@ -1,2 +1,4 @@
-# virtual environment
+
 venv
+*.pyc
+local_settings.py
