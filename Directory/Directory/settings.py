@@ -25,7 +25,7 @@ SECRET_KEY = 't195p^jpnxobhpj+hn_b61-35r+23z&mj-sg^(ho4&w00^pe-9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'immense-journey-30222.herokuapp.com']
 
 
 # Application definition
